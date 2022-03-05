@@ -7,7 +7,8 @@
 
 <h2>Proyectos</h2>
 
-- https://www.syncbed.com: App movil para sincroniar calendarios de reservas. (Django, Quasar)
+- https://www.syncbed.com: App movil para sincroniar calendarios de reservas. (Django, Quasar).
+- https://play.google.com/store/apps/details?id=com.syncbed.www SyncBed App, version app movil, usando (Vuejs, Capacitor js).
 
 - https://www.bandbcuba.com: Portal de reserva de alojamientos turísticos en Cuba. (Django, JQuery, Bootstrap)
 
