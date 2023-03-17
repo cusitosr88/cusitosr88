@@ -1,5 +1,5 @@
 <h1>Hola, ¡Bienvenido a mi perfil de GitHub!, Soy Javier Suárez</h1>
-<h2>Soy un apasionado de la programación y más de 8 años de experiencia en diversas tecnologías y herramientas. Si necesitas ayuda en alguno de estos temas, estaré encantado de ayudarte</h2>
+<h2>Soy un entusiasta de la programación con más de 8 años de experiencia en diversas tecnologías y herramientas. Si necesitas ayuda en alguno de estos temas, estaré encantado de ayudarte</h2>
 
 - ✨ Actualmente trabajando en **CodigoJS**, https://www.codigojs.com/
 
